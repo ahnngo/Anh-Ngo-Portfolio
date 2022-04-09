@@ -21,3 +21,12 @@
 ![alt text](https://github.com/ahnngo/bank-stocks-affected-by-covid/blob/master/Charts/Stock%20price%20fluctuation.png)
 ![alt text](https://github.com/ahnngo/bank-stocks-affected-by-covid/blob/master/Charts/Correlation%20of%20Stock%20Prices%20of%20Each%20Bank.png)
 ![alt text](https://github.com/ahnngo/bank-stocks-affected-by-covid/blob/master/Charts/aximum%20and%20Minimum%20Change%20in%20Close%20Price%20of%20Stocks%20by%20Time.png)
+
+# Project 3: [Predicting Housing Prices](https://github.com/ahnngo/house-prices-advanced-regression-techniques)
+* Created a tool that estimates housing price (MAE ~ $20K) to help predicting housing prices based on house's features
+* Optimized Linear to reach the best model.
+* Deployed one-hot encoding to turn 60+ categorical columns of data into numerical types
+
+![alt text](https://github.com/ahnngo/house-prices-advanced-regression-techniques/blob/master/Charts/Null%20Values%20Count.png)
+![alt text](https://github.com/ahnngo/house-prices-advanced-regression-techniques/blob/master/Charts/y_test%20vs.%20prediction.png)
+![alt text](https://github.com/ahnngo/house-prices-advanced-regression-techniques/blob/master/Charts/Error%20Distribution.png)
