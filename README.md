@@ -1,5 +1,5 @@
 ## [LinkedIn](linkedin.com/in/ahnngo) - Email: ngoa@berea.edu - Berea College, KY 40404
-### A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities. 
+*A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
 
 # Project 1: [Analyzing Vietnamese Graduation Score](https://github.com/ahnngo/analyzing_vietnamese_graduation_score_2020)
 * Exploited Python to curl and clean data of 74000 + candidates, including full names, DOB, and scores for 11 exams
