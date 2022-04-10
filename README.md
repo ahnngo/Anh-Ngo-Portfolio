@@ -1,5 +1,3 @@
-# Anh Ngo Portfolio
-
 # Project 1: [Analyzing Vietnamese Graduation Score](https://github.com/ahnngo/analyzing_vietnamese_graduation_score_2020)
 * Exploited Python to curl and clean data of 74000 + candidates, including full names, DOB, and scores for 11 exams
 * Utilized rigorously NumPy and Pandas to create 5+ DataFrames for plotting
