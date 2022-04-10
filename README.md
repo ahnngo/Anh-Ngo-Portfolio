@@ -7,7 +7,7 @@
 * Utilized Matplotlib, Seaborn, and Pandas built-in visualization tools flexibly draw 10+ charts for testing null hypothesis
 * Created a database in pgAdmin and extracted output using SQL queries to assess the coding part's accuracy and efficiency and detect errors in the dataset
 
-![](/chart/The%20numbers%20of%20student%20participating%20in%20each%20exam.png)
+![](chart/The%20numbers%20of%20student%20participating%20in%20each%20exam.png)
 ![](/chart/Percentage%20of%20exam%20combination%20taken%20by%20students.png)
 ![](/chart/Mandatory%20Meanscore.png)
 ![](/chart/Most%20Popular%20First%20Name.png)
