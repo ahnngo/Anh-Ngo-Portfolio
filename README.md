@@ -25,7 +25,7 @@
 
 # Project 3: [Predicting Housing Prices](https://github.com/ahnngo/house-prices-advanced-regression-techniques)
 * Created a tool that estimates housing price (MAE ~ $20K) to help predicting housing prices based on house's features
-* Optimized Linear to reach the best model.
+* Optimized Linear Regression to reach the best model
 * Deployed one-hot encoding to turn 60+ categorical columns of data into numerical types
 
 ![](chart/Null%20Values%20Count.png)
