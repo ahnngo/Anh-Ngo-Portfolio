@@ -1,7 +1,7 @@
 ### [LinkedIn](https://www.linkedin.com/in/ahnngo/) - Email: ngoa@berea.edu - Berea College, KY 40404
 *A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
 
-# Project 1: [SURVIVAL CHANCE DURING TITANIC TRAGEDY](https://github.com/ahnngo/bank-stocks-affected-by-covid)
+# Project 1: [Survival Chance during Titanic Tragedy](https://github.com/ahnngo/bank-stocks-affected-by-covid)
 *	Created a machine learning model to predict what is the chance of a person to survive on the Titanic Tragedy
 *	Optimized Logistic Regression to generate good f-1 scores of 0.87 (0) and 0.76 (1)
 *	Deployed one-hot encoding to convert categorical data to numerical data
