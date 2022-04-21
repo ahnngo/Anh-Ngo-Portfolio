@@ -7,10 +7,15 @@
 *	Deployed one-hot encoding to convert categorical data to numerical data
 
 ![](chart/Null%20value.png)
+
 ![](chart/Age%20Distribution.png)
+
 ![](chart/Age%20vs%20Pclass%20Boxplot.png)
+
 ![](chart/Survided%20vs%20Pclass.png)
+
 ![](chart/Survided%20vs%20Sex.png)
+
 ![](chart/Screenshot%202022-04-20%20225240.png)
 
 # Project 2: [Impacts of the COVID Pandemic on the 15 largest American banks](https://github.com/ahnngo/bank-stocks-affected-by-covid)
