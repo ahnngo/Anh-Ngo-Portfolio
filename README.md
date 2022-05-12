@@ -9,7 +9,7 @@
 ![](chart/Correlation_Deep_Learning.png)
 ![](chart/Age%20at%20enrollment.png)
 ![](chart/dropout_rate.png)
-![](chart/losses.png)
+![](chart/losses_drop_out.png)
 
 # Project 2: [Predicting House Prices in King County, USA](https://github.com/ahnngo/Predicting-House-Prices-in-King-County-USA)
 * Created a model that estimates housing price (Variance Score = 0.8) to help predict housing prices in King County based on house's features
