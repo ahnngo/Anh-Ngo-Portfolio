@@ -2,13 +2,14 @@
 *A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
 
 # Project 1: [Predict Students' Dropout and Academic Success](https://github.com/ahnngo/Predict-students-dropout-and-academic-success)
-*	Created a tool to estimate the risk of dropout and failure based on academic path, demographics, and social-economic factors, with an accuracy of 0.78 (Random Forest), helping to provide more accurate help to students
-*	Deployed Logistic Regression, KNN, Decision Tree, Random Forest, SVM, and GridSearchCV to test the accuracy of each model and compare to find the best performance
+* Created a tool to estimate the risk of dropout and failure based on academic path, demographics, and social-economic factors, helping to provide more accurate help to students by deploying multiple machine learning classification methods and deep learning
+* Increased the accuracy from 0.78 (Random Forest Algorithm) to 0.92 by implementing efficient feature engineer (eliminating outliers and deleting repeating features) and deploying Deep Learning with the support of Dropout and EarlyStopping
+* Generated a Tensorboard visualization tool to facilitate the model evaluation process
 
-
-![](chart/Correlation.png)
-![](chart/General%20Explore.png)
-![](chart/Error%20Rate%20vs%20K%20value.png)
+![](chart/Correlation_Deep_Learning.png)
+![](chart/Age%20at%20enrollment.png)
+![](chart/dropout_rate.png)
+![](chart/losses.png)
 
 # Project 2: [Predicting Housing Prices](https://github.com/ahnngo/house-prices-advanced-regression-techniques)
 * Created a tool that estimates housing price (MAE ~ $20K) to help predicting housing prices based on house's features
