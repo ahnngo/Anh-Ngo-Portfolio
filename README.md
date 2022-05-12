@@ -1,5 +1,5 @@
 ### [LinkedIn](https://www.linkedin.com/in/ahnngo/) - Email: ngoa@berea.edu - Berea College, KY 40404
-*A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
+*A passionate Data Science student. Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn, TensorFlow, Tensorboard, Spark, etc), and SQL. Comfortable with Machine Learning. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
 
 # Project 1: [Predict Students' Dropout and Academic Success](https://github.com/ahnngo/Predict-students-dropout-and-academic-success)
 * Created a tool to estimate the risk of dropout and failure based on academic path, demographics, and social-economic factors, helping to provide more accurate help to students by deploying multiple machine learning classification methods and deep learning
