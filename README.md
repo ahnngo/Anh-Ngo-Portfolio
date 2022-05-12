@@ -11,14 +11,16 @@
 ![](chart/dropout_rate.png)
 ![](chart/losses.png)
 
-# Project 2: [Predicting Housing Prices](https://github.com/ahnngo/house-prices-advanced-regression-techniques)
-* Created a tool that estimates housing price (MAE ~ $20K) to help predicting housing prices based on house's features
-* Optimized Linear Regression to reach the best model
-* Deployed one-hot encoding to turn 60+ categorical columns of data into numerical types
+# Project 2: [Predicting House Prices in King County, USA](https://github.com/ahnngo/Predicting-House-Prices-in-King-County-USA)
+* Created a model that estimates housing price (Variance Score = 0.8) to help predict housing prices in King County based on house's features
+* Implemented Feature Engineer to punish outliers, decreasing MSE by $20k and MAE by $3k using a deep learning model
+* Improved Variance Score by 0.1, from 0.7 (Linear Regression model) to 0.8 by deploying a neural network with two hidden layers
 
-![](chart/Null%20Values%20Count.png)
-![](chart/y_test%20vs.%20prediction.png)
-![](chart/Error%20Distribution.png)
+![](chart/price_distribution.png)
+![](chart/price_sqftliving.png)
+![](chart/geographical.png)
+![](chart/losses.png)
+![](chart/y_test_predictions.png)
 
 # Project 3: [Impacts of the COVID Pandemic on the 15 largest American banks](https://github.com/ahnngo/bank-stocks-affected-by-covid)
 * Built data frames demonstrating stock prices of largest banks in the USA from 2019-01-01 to 2022-03-14 by reading data from Yahoo finance and HTML dataset from bankrate.com for stock prices of largest banks in the USA
