@@ -1,7 +1,6 @@
 ## Anh Ngo Data Science Portfolio
 
-### [LinkedIn](https://www.linkedin.com/in/ahnngo/) - Email: helloanhngo2002@gmail.com - Berea College
-### [Resume](https://drive.google.com/file/d/1grscNVi8yIKfb7pWHjPw1F8WkKJ9mDQ5/view?usp=sharing)
+### [LinkedIn](https://www.linkedin.com/in/ahnngo/) - Email: helloanhngo2002@gmail.com - Berea College - [Resume](https://drive.google.com/file/d/1grscNVi8yIKfb7pWHjPw1F8WkKJ9mDQ5/view?usp=sharing)
 *A passionate Data Science student. Proficient in Python and SQL. Comfortable with Machine Learning and Statistics. Mathematically amazing and familiar with Economics concepts. Actively looking for internship opportunities.*
 
 # Project 1: [Cervical Cancer Detection Web App](https://github.com/ahnngo/cervical-cancer-project)
