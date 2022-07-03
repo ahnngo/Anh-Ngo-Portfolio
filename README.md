@@ -58,7 +58,7 @@
 ![](chart/Correlation%20of%20Stock%20Prices%20of%20Each%20Bank.png)
 ![](chart/aximum%20and%20Minimum%20Change%20in%20Close%20Price%20of%20Stocks%20by%20Time.png)
 
-# Project 5: [Analyzing Vietnamese Graduation Score](https://github.com/ahnngo/analyzing_vietnamese_graduation_score_2020)
+# Project 6: [Analyzing Vietnamese Graduation Score](https://github.com/ahnngo/analyzing_vietnamese_graduation_score_2020)
 * Exploited Python to curl and clean data of 74000 + candidates, including full names, DOB, and scores for 11 exams
 * Utilized rigorously NumPy and Pandas to create 5+ DataFrames for plotting
 * Utilized Matplotlib, Seaborn, and Pandas built-in visualization tools flexibly draw 10+ charts for testing null hypothesis
